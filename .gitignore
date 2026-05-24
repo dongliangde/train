@@ -1,0 +1,22 @@
+.idea
+*.log
+*.exe
+
+# go sum
+go.sum
+
+# sqlite
+*.sqlite
+
+# swag
+*.yaml
+*.json
+*.sql
+
+vendor
+
+logs
+*.bin
+*.idx
+data_record
+.kiro
